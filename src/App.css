@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.imagem-card {
+  max-width: 250px;
+  max-height: 200px;
+}
+
+.card {
+  width: 375px;
+}
+
+.card-header{
+  min-height: 300px;
+}
+
+.promotion { 
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.Login {
+  margin-left: 20px;
+}
+
+.Login input {
+  display: block;
+  margin: 5px 0 5px;
+}
+
+.btn-primary {
+  margin: 20px;
+}
